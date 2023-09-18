@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Welcome to My GitHub Profile!<br><br>I'm Gaurav Sunthwal<br>Passionate Web Developer | Crafting Digital Experiences | Problem Solver<br><br>Passionate Computer Science student at MIT-World Peace University, adept in web development (ReactJS, HTML, CSS, Node.js). Eager to learn, innovate, and collaborate for impactful tech solutions. Let's connect and explore the exciting possibilities! 🚀
+👋 Welcome to My GitHub Profile!<br><br>I'm Gaurav Sunthwal<br>Passionate Web Developer | Crafting Digital Experiences | Problem Solver<br><br>Passionate Computer Science student at MIT-World Peace University, adept in web development (ReactJS, HTML, CSS, Node.js). Eager to learn, innovate, and collaborate for impactful tech solutions. Let's connect and explore the exciting possibilities! 🚀
 
 
 ## 🌐 Socials:
