@@ -17,8 +17,8 @@ function Contact() {
     event.prevenDefault()
     const config = {
       SecureToken: "39964656-f78d-4268-a009-c19fc85369bd",
-      To: "codewithgaurav22005@gmail.com",
-      From: formStatus.email,
+      To: formStatus.email,
+      From: "codewithgaurav22005@gmail.com",
       Subject: "This is the subject",
       Body: `${formStatus.name} send you a message`
     };
@@ -28,7 +28,7 @@ function Contact() {
   };
 
   function sendEmail() {
-    console.log("helo");
+    // console.log("helo");
   }
   return (
     <>
