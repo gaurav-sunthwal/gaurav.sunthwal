@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Welcome to My GitHub Profile!<br><br>I'm Gaurav Sunthwal<br>Passionate Web Developer | Crafting Digital Experiences | Problem Solver<br><br>Passionate Computer Science student at MIT-World Peace University, adept in web development (ReactJS, HTML, CSS, Node.js). Eager to learn, innovate, and collaborate for impactful tech solutions. Let's connect and explore the exciting possibilities! 🚀
 
-<img align="right" width=400 src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="coding"/>
+<img align="right" width=300 src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="coding"/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gaurav_sunthwal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav_sunthwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-sunthwal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCJt6XG8c6keFeEU0L22vNBA) 
