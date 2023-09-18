@@ -4,14 +4,14 @@ import ProjectTamplet from "../Componet/ProjectTamplet";
 
 // Img And Links Of Card
 
-import project1Img from "../img/Project-1.webp";
+import project1Img from "../img/codewithgaurav-proj1.png";
 import project2Img from "../img/Project-1.png";
 import project3Img from "../img/twitter-clone.webp";
 // import project4Img from "../img/me-5.jpeg";
 
 const card1 = "https://codewithgaurav.netlify.app/";
-const card2 = "https://codewithgaurav.netlify.app/";
-const card3 = "https://codewithgaurav.netlify.app/";
+const card2 = "https://gaurav-sunthwal.vercel.app/";
+// const card3 = "https://codewithgaurav.netlify.app/";
 // const card4 = "https://codewithgaurav.netlify.app/"
 
 function Project() {
@@ -34,47 +34,19 @@ function Project() {
       <div className="cardSec">
         <div className="allCard">
           <ProjectTamplet
-            imgName={project1Img}
-            link={card1}
-            tital="codewithgaurav website"
-            discraption="I made this website using all new technologis"
-            tags={["ReactJs", "HTML", "CSS"]}
-          />
-          <ProjectTamplet
             imgName={project2Img}
             link={card2}
-            tital="codewithgaurav website"
-            discraption="I made this website using all new technologis"
-            
-          />
-          <ProjectTamplet
-            imgName={project3Img}
-            link={card3}
-            tital="codewithgaurav website"
-            discraption="I made this website using all new technologis"
-            
-          />
+            tital="Gaurav Sunthwal Potfolio"
+            discraption="My Portfolio Website: A digital canvas of my skills, projects, and creative journey."
+            tags={["HTML", "CSS", "ReactJS"]}
+          ></ProjectTamplet>
           <ProjectTamplet
             imgName={project1Img}
             link={card1}
-            tital="codewithgaurav website"
-            discraption="I made this website using all new technologis"
-            
-          />
-          <ProjectTamplet
-            imgName={project2Img}
-            link={card2}
-            tital="codewithgaurav website"
-            discraption="I made this website using all new technologis"
-            
-          />
-          <ProjectTamplet
-            imgName={project3Img}
-            link={card3}
-            tital="codewithgaurav website"
-            discraption="I made this website using all new technologis"
-            tags={["project1", "project2", "project3"]}
-          />
+            tital="CodeWithGaurav Website By Gaurav Sunthwal"
+            discraption="CodeWithGaurav:My e-learning platform creation journey, where I empower learners to master coding."
+            tags={["HTML", "CSS", "JS"]}
+          ></ProjectTamplet>
         </div>
       </div>
     </>
