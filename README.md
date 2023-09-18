@@ -11,7 +11,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gaurav-sunthwal&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<img align="right" width=400 src="https://www.google.com/search?sca_esv=566211836&sxsrf=AM9HkKmjbG-8yPwCIpEDyJbGXlNQMlA73Q:1695024841321&q=coding+gif+for+github&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiBpbXM27OBAxVCZ94KHUBBDIYQ0pQJegQIDRAB&biw=1440&bih=783&dpr=2#imgrc=1Dro-CqJY0h0AM" alt="coding"/>
+<img align="right" width=400 src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
