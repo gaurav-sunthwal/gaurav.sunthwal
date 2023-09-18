@@ -1,0 +1,27 @@
+* {
+  /* background-color: #0e1630!important; */
+  color: white;
+}
+
+body {
+  background: #0e1630;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  color: #808dad;
+}
+.topText {
+  display: flex;
+  align-items: center;
+  position: relative;
+  bottom: -17px;
+}
+@media screen and (max-width: 1025px) {
+  body {
+    text-align: center;
+  }
+}

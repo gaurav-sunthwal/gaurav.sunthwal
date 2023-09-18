@@ -1,0 +1,77 @@
+.wholeTerminalSec .topText {
+  margin-left: 62px;
+}
+.wholeTerminalSec {
+  font-family: monospace;
+  font-size: 20px;
+}
+.terminalSec {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+}
+.terminal {
+  /* padding: 12px; */
+  width: 95%;
+  height: 50vh;
+  border: 2px solid white;
+  overflow: scroll;
+}
+
+.dots {
+  padding: 5px;
+  display: flex;
+}
+.dotsIcons {
+  border-radius: 50%;
+  margin: 6px;
+  width: 15px;
+  height: 15px;
+}
+.dots1 {
+  background-color: rgb(237, 106, 94);
+}
+.dots2 {
+  background-color: rgb(244, 191, 79);
+}
+.dots3 {
+  background-color: rgb(98, 197, 84);
+}
+
+.terminalText {
+  padding: 12px;
+  /* font-size: 5.38cap; */
+}
+.loopCont {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.loopCont h3 {
+  max-width: 100%;
+  padding: 12px;
+}
+.terminalInput{
+  background-color: transparent;
+  border: none; /* Remove the border */
+  color: white;
+  outline: none; /* Remove the outline when focused */
+  font-family: monospace;
+  width: 50%;
+  font-size: 32px;
+  padding: 0; /* Optionally remove padding */
+  margin: 5; /* Optionally remove margin */
+}
+
+@media screen and (max-width: 1025px) {
+  .topText {
+    margin-left: 0px;
+  }
+  .terminal {
+    text-align: justify;
+  }
+  .loopCont h3 {
+    width: 80%;
+    font-size: 15px;
+    /* padding: 12px; */
+  }
+}

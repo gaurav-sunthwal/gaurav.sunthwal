@@ -1,0 +1,97 @@
+nav {
+  display: flex;
+  position: sticky;
+  width: 100%;
+  height: 10vh;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+  z-index: 3;
+  /* border: 2px solid; */
+  overflow: hidden;
+}
+
+.logo {
+  padding: 0px 12px;
+  margin-left: 50px;
+  font-size: 23px;
+}
+
+.burger {
+  display: none;
+}
+a {
+  padding: 12px;
+  cursor: pointer;
+  align-items: center;
+}
+
+.links {
+  color: rgb(128 141 173);
+}
+.links:hover {
+  color: rgb(212, 156, 15);
+}
+.manu {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  margin-right: 50px;
+}
+
+span {
+  color: #01d293;
+}
+.icon {
+  /* font-size: 22px; */
+  color: #e5e7eb;
+}
+.icon:hover {
+  transform: scale(1.1); /* Enlarge the card on hover */
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+  z-index: 1; /* Bring the card to the top layer */
+}
+.burger {
+  display: none;
+  cursor: pointer;
+}
+.burgerManu {
+  display: none;
+  background-color: #0e1630;
+}
+.close {
+  display: none;
+}
+@media screen and (max-width: 1025px) {
+  .logo {
+    padding: 0px 12px;
+    margin-left: 10px;
+    font-size: 23px;
+  }
+  .manu {
+    display: none;
+  }
+  nav {
+    padding: ;
+  }
+  .burger {
+    display: block;
+  }
+  .close {
+    display: none;
+  }
+  .manuIcon {
+    margin-right: 10px;
+    font-size: 30px;
+    padding: 12px;
+  }
+
+  .burgerManu {
+    display: none;
+    z-index: 555;
+    text-align: center;
+    position: fixed;
+    top: 10%;
+    width: 100%;
+  }
+}

@@ -1,0 +1,78 @@
+.imgSec img{
+     width: 360px;
+    height: 200px;
+    object-fit: contain;
+    /* padding: 12px; */
+    /* margin: 12px; */
+    padding: 0px 12px;
+}
+
+.card{
+    /* border: 2px solid; */
+    background: #171f38 !important;
+    border-radius: 12px;
+    padding: 12px;
+    margin: 12px;
+    margin-bottom: 15px;
+    /* width: 100%; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* width: 33%; */
+}
+
+.whloeCard{
+    /* padding: 10px; */
+}
+/* .whloeCard :hover{
+    transform: scale(1.1); 
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); 
+    z-index: 1;
+} */
+
+/* .card :hover{
+    transform: scale(1.1); 
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); 
+  z-index: 1;
+} */
+
+.card p{
+    color: #808dad;
+}
+.info{
+    margin-top: -5px;
+    padding: 12px;
+}
+.cardText{
+    padding: 5px;
+}
+.alltags{
+    display: flex;
+    /* margin-top: -12px; */
+    /* padding: 12px; */
+    /* margin: 12px; */
+    /* justify-content: ; */
+}
+.tag{
+    /* width: 50px; */
+    height: 20px;
+    align-items: center;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 7px;
+    background-color: #808dad68 !important;
+    color: #fff;
+    /* background: #808dad68; */
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.tag :hover{
+    background-color: whitesmoke !important;
+    color: black;
+}
+
+
+@media screen and (max-width: 1025px) {
+  .alltags{
+    justify-content: center;
+  }
+}

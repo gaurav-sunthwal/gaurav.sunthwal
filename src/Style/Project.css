@@ -1,0 +1,26 @@
+.projectSec{
+    margin-left: 62px;
+}
+.project{
+    padding: 12px;
+}
+
+.allCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* padding: 20px; */
+
+}
+
+
+
+@media screen and (max-width: 1025px) {
+    .projectSec{
+        margin-left: 0px;
+        padding: 20px;
+    }
+    .cardSec{
+        padding: 12px;
+    }
+}

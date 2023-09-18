@@ -1,0 +1,13 @@
+.notFoundText{
+    width: 100%;
+    text-align: center;
+    /* height: 80vh; */
+    align-items: center;
+}
+
+.notFound{
+    width: 100%;
+}
+.notFound img{
+    width: 50%;
+}
